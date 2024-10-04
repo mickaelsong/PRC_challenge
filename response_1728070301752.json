@@ -1,0 +1,24 @@
+{
+  "members": [
+    {
+      "leader": false,
+      "member_name": "Karima Ghamnia",
+      "email": ""
+    },
+    {
+      "leader": false,
+      "member_name": "Cassandra Mussard",
+      "email": ""
+    }
+  ],
+  "team_id": "2c96823b-4655-499d-923a-a01019866dc4",
+  "team_name": "team_mindful_octopus",
+  "registration_date": "2024-10-04",
+  "team_lead": {
+    "leader": true,
+    "member_name": "Mickaël Song",
+    "email": "songmickael@hotmail.com"
+  },
+  "bucket_access_key": "ZG58zJvKhts2bkOX",
+  "bucket_access_secret": "eU95azmBpK82kg96mE0TNzsWov3OvP2d"
+}
